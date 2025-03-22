@@ -1,7 +1,7 @@
 # Weather Monitoring System IoT
 An IoT project to monitor temperature, humidity, and air pressure with real-time visualization.  Detects anomalies when extreme changes occur, records sensor data into InfluxDB, and visualizes the results through Grafana for easy analysis.
 
-You can view the presentation slide for this project [here](docs/Presentasi%20Tugas%20Besar%20Mata%20Kuliah%20Internet%20of%20Things_Kelompok%202.pdfpresentation.pdf)
+You can view the presentation slide for this project [here](docs/Presentasi%20Tugas%20Besar%20Mata%20Kuliah%20Internet%20of%20Things_Kelompok%202.pdf)
 
 ## Table of contents
 * [System Components](#system-components)
