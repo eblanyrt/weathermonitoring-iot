@@ -1,0 +1,2 @@
+# Weather Monitoring System IoT
+An IoT project to monitor temperature, humidity, and air pressure with real-time visualization.  Detects anomalies when extreme changes occur, records sensor data into InfluxDB, and visualizes the results through Grafana for easy analysis.
