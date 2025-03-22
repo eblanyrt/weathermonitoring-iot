@@ -59,8 +59,8 @@ You can view the presentation slide for this project [here](docs/Presentasi%20Tu
 ## Developers
 |No.| Name| Role|
 |:-----|:-------:| :------:|
-1. | Noe Christianto| Lead IoT Engineer|
-2. | Mathius Ronaldo Ibrahim| System Administrator & Supporting IoT Engineer|
-3. | Yobel Yosafat Sibarani| System Administrator|
-4. | Gabriel Imanuela| Documentation & Technical Writer|
-5. | Trestya Asterina Hondro| Documentation & Technical Writer|
+|1. | Noe Christianto| Lead IoT Engineer|
+|2. | Mathius Ronaldo Ibrahim| System Administrator & Supporting IoT Engineer|
+|3. | Yobel Yosafat Sibarani| System Administrator|
+|4. | Gabriel Imanuela| Documentation & Technical Writer|
+|5. | Trestya Asterina Hondro| Documentation & Technical Writer|
